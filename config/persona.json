@@ -1,0 +1,9 @@
+{
+    "personas": {
+        "persona5": {
+            "icon_path": "Icons/imgs/AS_fixit.png",
+            "name": "test",
+            "description": "note : fallows the same template:\n\n[Appearance: name(Reina), age(150)...]"
+        }
+    }
+}
