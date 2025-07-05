@@ -2,6 +2,8 @@
 
 A simple, **Unfinished** local chatbot built with Python and PyQt5. Supports customizable personas, editable bot profile, chat history, and easy local LLM chatting using **Ollama**.
 
+![2025-07-0506-32-02online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f5fa67ec-3d17-46a9-b3b7-a35e4cdf5d25)
+
 ---
 
 ## ✨ Features
